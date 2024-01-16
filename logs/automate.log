@@ -1,0 +1,28 @@
+12:30:58.414 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:30:58.425 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:31:03.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register button
+12:31:03.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating some message
+12:31:12.057 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:31:13.551 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+12:31:14.657 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+12:58:26.597 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:58:26.611 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:58:28.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:58:28.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:58:32.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register button
+12:58:32.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating some message
+12:58:34.154 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register button
+12:58:34.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating some message
+12:58:40.648 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:58:41.428 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+12:58:42.244 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:58:42.607 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+12:58:43.425 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+12:58:44.733 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+13:29:56.485 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:29:56.495 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:30:01.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register button
+13:30:01.601 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating some message
+13:30:09.360 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:30:10.531 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+13:30:11.380 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
